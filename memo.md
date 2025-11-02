@@ -1,4 +1,4 @@
-To Research:
+?:
 
 - [walkthrough] Perfect square always making discriminant zero (91261 2019)
 - [walkthrough] sums and products rule in quadratics:
