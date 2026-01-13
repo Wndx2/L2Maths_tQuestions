@@ -1,4 +1,4 @@
-This repository contains all the t (excellence) grade questions for the standard 91261: Algebraic Methods and 91262: Calculus Methods.\
+This repository contains all the **t** (excellence) grade questions for the standard 91261: Algebraic Methods and 91262: Calculus Methods.\
 Most of the questions are collected from NZQA's official website, while a few are collected from NZQA Paper Archives.
 
 The questions are provided in a PDF file format so that you can download it straight, and print it out.\
